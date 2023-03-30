@@ -1,4 +1,4 @@
-# Financial-News-Headline-Scraper
+# Financial-News--Scraper
 
 
 Personal Project to grab financial news headlines from yahoo finance's website.
