@@ -1,4 +1,4 @@
-# Programmer: Noah Bird
+
 # Date: 3/11/23
 # web scraper that pulls the most recent news headlines from yahoofinance.com
 # best used to get a quick snapshot of current economic/market related news
